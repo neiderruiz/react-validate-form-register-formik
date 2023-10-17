@@ -24,4 +24,4 @@ npm run dev
 
 ## See video in Youtube
 
-[<img src="https://img.youtube.com/vi/mjx5P_dHJtY/maxresdefault.jpg" width="30%">](https://www.youtube.com/watch?v=Hc79sDi3f0U "Now in Android: 55")
+[<img src="https://img.youtube.com/vi/mjx5P_dHJtY/maxresdefault.jpg" width="30%">](https://www.youtube.com/watch?v=Hc79sDi3f0U "Click para ver el video")
